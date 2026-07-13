@@ -39,4 +39,4 @@ The game allows the user to choose the number of rounds, validates user input, k
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/rock-paper-scissors.git
+git clone https://github.com/ArnautCristian/Rock-Paper-Scissors-Game-in-Python.git
